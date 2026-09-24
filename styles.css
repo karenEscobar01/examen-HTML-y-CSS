@@ -1,0 +1,29 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+
+.body{
+    font-family: 'segoe UI', Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #2b2f38;
+}
+
+#servicios{
+    padding: 60px 24px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.servcios-header h2{
+    font-size: 2.2rem;
+    color: #1d3557;
+    margin-bottom: 12px;
+}
+
+.servicios-header p{
+    font-size: 1.05rem;
+    color: #5a6472;
+}
